@@ -154,25 +154,36 @@ p img {
 
 <br >
     <button id="btn" class="btn btn-danger" >Click here for the pop up </button>
+
+    <br />
+
+  
+<!-- Please call pinit.js only once per page -->
+<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
 </div>
 <div class="row" style="margin-top:50px">
 <div class="col-sm-4">
   <img src="P1.jpg" width="200">
   <br/>
-  <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red" data-pin-height="28"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_28.png" /></a><br/>
-<div class="fb-share-button" data-href="http://www.scriblur.com/cyc/productpage.php?id=1" data-layout="button"></div>
+<a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fliberent.byethost7.com%2Fliberent%2Fpin.php&media=http%3A%2F%2Fliberent.byethost7.com%2Fliberent%2FP1.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-shape="round">
+<img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_16.png" /></a>
+<br/>
+<div class="fb-share-button"
+ data-href="http://www.scriblur.com/cyc/productpage.php?id=1" data-layout="icon">
+ </div>
 <br/>
 <span class="btn btn-info"  id="close_it">ADD to BAG</span>
 
 
-<!-- Please call pinit.js only once per page -->
-<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
 </div>
 <div class="col-sm-4">
    <img src="P2.jpg" width="200"><br/>
 
-   <a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red" data-pin-height="28"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_28.png" /></a><br/>
-<div class="fb-share-button" data-href="http://www.scriblur.com/cyc/productpage.php?id=2" data-layout="button"></div>
+  <a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fliberent.byethost7.com%2Fliberent%2Fpin.php&media=http%3A%2F%2Fliberent.byethost7.com%2Fliberent%2FP2.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-shape="round">
+  <img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_16.png" /></a><br/>
+<div class="fb-share-button" data-href="http://www.scriblur.com/cyc/productpage.php?id=2"
+ data-layout="icon"></div>
 <br/>
 <span class="btn btn-info"  id="close_it">ADD to BAG</span>
 
@@ -180,8 +191,10 @@ p img {
 </div>
 <div class="col-sm-4">
 <img src="P3.jpg" width="200"><br/>
-<a href="//www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"  data-pin-color="red" data-pin-height="28"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_28.png" /></a><br/>
-<div class="fb-share-button" data-href="http://www.scriblur.com/cyc/productpage.php?id=1" data-layout="button"></div>
+<a href="//www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fliberent.byethost7.com%2Fliberent%2Fpin.php&media=http%3A%2F%2Fliberent.byethost7.com%2Fliberent%2FP3.jpg&description=Next%20stop%3A%20Pinterest" data-pin-do="buttonPin" data-pin-shape="round">
+<img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_16.png" /></a><br/>
+<div class="fb-share-button" style="background-image:url('fb.png')"
+ data-href="http://www.scriblur.com/cyc/productpage.php?id=1" data-layout="icon"></div>
 <br/>
 <span class="btn btn-info"  id="close_it">ADD to BAG</span>
 </div>
